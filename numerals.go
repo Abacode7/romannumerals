@@ -2,6 +2,16 @@ package romannumerals
 
 // Numerals is a data service for server
 var Numerals = map[int]string {
+	20: "XX",
+	19: "XIX",
+	18: "XVIII",
+	17: "XVII",
+	16: "XVI",
+	15: "XV",
+	14: "XIV",
+	13: "XIII",
+	12: "XII",
+	11: "XI",
 	10: "X",
 	9:  "IX",
 	8:  "VIII",
